@@ -2,7 +2,7 @@
 ![BRB SWE](https://media3.giphy.com/media/A0m0caPuimZ4CNtYmx/giphy.gif)
 
 [M3 Works](m3works.io) is continually developing the next generation of
-physically snow and water resource tools, while supporting geospatial opensource
+physically based snow and water resource tools, while supporting geospatial opensource
 software. We are the architects of modern iSnobal, applying high resolution
 modeling across the Western US. 
 We work with open-source technology to make the tools we build and use more broadly accessible. We collaborate with organizations and communities eager to address some of the world's most challenging problems. Take a look at some of our pinned repositories to get a sense of what we do. Want to make a contribution? Make a pull request! 
