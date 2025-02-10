@@ -19,6 +19,7 @@ implementation of the iSnobal snowpack model.
 We care deeply about making data access easy and available to the
 cryosphere and geospatial communities. We support multiple opensource
 software projects to make this possible
+- [pointsnobal](https://github.com/M3Works/pointsnobal)
 - [metloom](https://github.com/M3Works/metloom)
 - [snowexsql](https://github.com/snowex/snowexsql)
 - [metevents](https://github.com/M3Works/metevents)
