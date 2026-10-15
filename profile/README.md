@@ -31,5 +31,6 @@ Keep up to date with the latest M3 Works development [updates](https://m3works.i
 - [Why we use iSnobal](https://m3works.io/#/why-we-chose-isnobal)
 - [The power of remote sensing](https://m3works.io/#/remote-sensing-with-isnobal-model)
 - [Our validation](https://m3works.io/#/water-management-accuracy-isnobal)
+- [M3W-iSnobal 2.0](https://m3works.io/blog/introducing-m3w-isnobal-2)
 
 Let's chat about your project! Contact info@m3works.io
